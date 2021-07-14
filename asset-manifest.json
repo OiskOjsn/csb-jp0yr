@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://oiskojsn.github.io/csb-jp0yr/static/css/main.3fc0e403.chunk.css",
+    "main.js": "https://oiskojsn.github.io/csb-jp0yr/static/js/main.5008d376.chunk.js",
+    "main.js.map": "https://oiskojsn.github.io/csb-jp0yr/static/js/main.5008d376.chunk.js.map",
+    "runtime-main.js": "https://oiskojsn.github.io/csb-jp0yr/static/js/runtime-main.158f6f14.js",
+    "runtime-main.js.map": "https://oiskojsn.github.io/csb-jp0yr/static/js/runtime-main.158f6f14.js.map",
+    "static/js/2.d61e0e47.chunk.js": "https://oiskojsn.github.io/csb-jp0yr/static/js/2.d61e0e47.chunk.js",
+    "static/js/2.d61e0e47.chunk.js.map": "https://oiskojsn.github.io/csb-jp0yr/static/js/2.d61e0e47.chunk.js.map",
+    "index.html": "https://oiskojsn.github.io/csb-jp0yr/index.html",
+    "static/css/main.3fc0e403.chunk.css.map": "https://oiskojsn.github.io/csb-jp0yr/static/css/main.3fc0e403.chunk.css.map",
+    "static/js/2.d61e0e47.chunk.js.LICENSE.txt": "https://oiskojsn.github.io/csb-jp0yr/static/js/2.d61e0e47.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.158f6f14.js",
+    "static/js/2.d61e0e47.chunk.js",
+    "static/css/main.3fc0e403.chunk.css",
+    "static/js/main.5008d376.chunk.js"
+  ]
+}
